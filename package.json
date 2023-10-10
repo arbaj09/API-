@@ -4,11 +4,7 @@
   "description": "This is backend api for property listing",
   "main": "App.js",
   "scripts": {
-    "ng":"ng",
-    "start":"ng serve",
-    "build":"ng build"
-    
-    "test": "echo \"Error: no test specified\" && exit 1"
+   "start":"node App.js"
   },
   "keywords": [],
   "author": "",
